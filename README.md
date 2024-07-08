@@ -1,6 +1,7 @@
 # hello-world
-resource tool
+resource
 
 PHP Developer
-WordPress Developer
+
+
 
